@@ -10,17 +10,6 @@ I'm a passionate Full Stack Web Developer who loves to tackle both front-end and
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools:** Git, Docker, Webpack, Jenkins
 
-## Projects
-Here are a few projects I've been working on:
-
-### [Project Name](project-url)
-- **Description:** A brief description of what the project does.
-- **Technologies:** List the technologies used.
-
-### [Another Project Name](project-url)
-- **Description:** A brief description of what the project does.
-- **Technologies:** List the technologies used.
-
 ## Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/himanshu-sayankar-a671a3305/)
 - [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:himanshu.sayankar.28@gmail.com)
