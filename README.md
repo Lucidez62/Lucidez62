@@ -1,4 +1,4 @@
-# Hi there, I'm Lucidez62! 👋
+# Hi there, I'm Himanshu Sayankar! 👋
 
 ## About Me
 I'm a passionate Full Stack Web Developer who loves to tackle both front-end and back-end challenges with full efficiency. My goal is to create seamless and dynamic web applications that provide excellent user experiences.
